@@ -90,8 +90,8 @@ Uri: https://wagmicatgirl.com/hood-button-3.png
 File Name: C:\Downloaded Web Sites\wagmicatgirl.com\hood-button-3.png
 Content Type: image/png
 
-Uri: https://wagmicatgirl.com/hood-cancelled.gif
-File Name: C:\Downloaded Web Sites\wagmicatgirl.com\hood-cancelled.gif
+Uri: https://wagmicatgirl.com/hood-fire.gif
+File Name: C:\Downloaded Web Sites\wagmicatgirl.com\hood-fire.gif
 Content Type: image/gif
 
 Uri: https://wagmicatgirl.com/hood-chart-1.png
